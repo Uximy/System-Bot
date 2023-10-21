@@ -1,0 +1,21 @@
+{
+ "server1": {
+  "ip": "92.53.64.19:27015",
+  "minPlayer": 0,
+  "maxPlayers": 18,
+  "map": "de_mirage"
+ },
+ "server2": {
+  "ip": "92.53.64.19:27017",
+  "minPlayer": 0,
+  "maxPlayers": 18,
+  "map": "de_mirage"
+ },
+ "server3": {
+  "ip": "92.53.64.19:27023",
+  "minPlayer": 1,
+  "maxPlayers": 11,
+  "map": "de_mirage"
+ },
+ "lastMessagesId": "1147893025008267284"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "System_bot",
+  "version": "0.1.5",
+  "description": "",
+  "main": "System_start.js",
+  "scripts": {
+    "dev": "node System_start.js"
+  },
+  "author": "Uximy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "steam-server-query": "^1.1.3"
+  }
+}
